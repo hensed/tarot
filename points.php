@@ -33,8 +33,14 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
 $month = date("m");
 $year = date("Y");
 $today = date("d");
+if ( $today < 3) { 
+	$delta_day = 3; 
+	} else { 
+	$delta_day = $today; 
+}
+
 mysql_select_db($database_connect_db, $connect_db);
-$query_delta_points = "create temporary table delta_calc as (SELECT COUNT( `hand_fk_id` ) AS handsplayed, player_fk_id as dpid, SUM(  `points_earned` ) AS deltapoints FROM player_hand WHERE MID( TIMESTAMP, 6, 2 ) = '$month' AND MID( TIMESTAMP, 1, 4 ) = '$year' AND MID( TIMESTAMP, 9, 2 ) between 1 and '$today' - 2 GROUP BY  `player_fk_id`)";
+$query_delta_points = "create temporary table delta_calc as (SELECT COUNT( `hand_fk_id` ) AS handsplayed, player_fk_id as dpid, SUM(  `points_earned` ) AS deltapoints FROM player_hand WHERE MID( TIMESTAMP, 6, 2 ) = '$month' AND MID( TIMESTAMP, 1, 4 ) = '$year' AND MID( TIMESTAMP, 9, 2 ) between 1 and '$delta_day' - 2 GROUP BY  `player_fk_id`)";
 $delta_points = mysql_query($query_delta_points, $connect_db) or die(mysql_error());
 
 mysql_select_db($database_connect_db, $connect_db);
