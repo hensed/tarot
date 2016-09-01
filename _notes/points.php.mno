@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><info>	<infoitem key="UD_Recordset1" value="name:first_name;datatype:blob,name:last_name;datatype:blob,name:SUM(`points_earned`);datatype:real" /></info>

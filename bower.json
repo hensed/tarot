@@ -1,0 +1,11 @@
+{
+  "name": "blueprint",
+  "version": "0.2.19",
+  "main": [
+    "pt.blueprint.css",
+    "pt.blueprint.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.0"
+  }
+}

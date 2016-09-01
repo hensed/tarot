@@ -1,0 +1,272 @@
+@import "variables.less";
+@import "palantir-colors-import.less";
+
+// You can override bootstrap variables here.
+
+// Grays
+// -------------------------
+
+@gray-darker:            @grey2;
+@gray-dark:              @grey3;
+@gray:                   @grey4;
+@gray-light:             @grey6;
+@gray-lighter:           @grey10;
+
+// Brand colors
+// -------------------------
+
+@brand-primary:         @blue2;
+@brand-success:         @green2;
+@brand-warning:         @yellow2;
+@brand-danger:          @red2;
+@brand-info:            @grey9;
+
+
+// Links
+// -------------------------
+
+@link-color:            @brand-primary;
+@link-hover-color:      @blue1;
+
+
+// Typography
+// -------------------------
+
+@font-family-sans-serif:  "DinNextLT-400-normal", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// Do not use serifs.
+@font-family-serif:       @font-family-sans-serif;
+@font-family-monospace:   "SourceCodePro-400", Monaco, Menlo, Consolas, "Courier New", monospace;
+@font-family-base:        @font-family-sans-serif;
+
+@font-size-base:          14px;
+@line-height-base:        1.428571429; // 20/14
+
+@headings-font-family:    "BlenderPro-600-normal", "Helvetica Neue", Helvetica, Arial, sans-serif;
+@headings-font-weight:    normal;
+
+// Components
+// -------------------------
+// Based on 14px font-size and 1.428 line-height (~20px to start)
+
+@component-height-base:          40px;
+@component-height-small:         30px;
+@component-height-large:         60px;
+
+@padding-base-vertical:          ((@component-height-base - floor(@font-size-base * @line-height-base) - 2) / 2);
+@padding-base-horizontal:        10px;
+
+@padding-large-vertical:         ((@component-height-large - floor(@font-size-large * @line-height-large) - 2) / 2);
+@padding-large-horizontal:       10px;
+
+@padding-small-vertical:         ((@component-height-small - floor(@font-size-small * @line-height-small) - 2) / 2);
+@padding-small-horizontal:       10px;
+
+@line-height-large:              2.2;
+
+@border-radius-base:             3px;
+@border-radius-large:            3px;
+@border-radius-small:            3px;
+
+
+// Buttons
+// ------------------------
+
+
+@btn-font-weight:                normal;
+
+@btn-default-color:              @gray-darker;
+@btn-default-bg:                 rgba(255,255,255,0);
+
+@btn-default-border:             @grey9;
+
+@btn-primary-color:              #fff;
+@btn-primary-bg:                 @brand-primary;
+
+@btn-success-color:              #fff;
+@btn-success-bg:                 @brand-success;
+
+@btn-warning-color:              @gray-darker;
+@btn-warning-bg:                 @brand-warning;
+
+@btn-danger-color:               #fff;
+@btn-danger-bg:                  @brand-danger;
+
+@btn-info-color:                 @gray-darker;
+@btn-info-bg:                    @brand-info;
+
+@btn-link-disabled-color:        @gray-light;
+
+@btn-padding-base-horizontal:    20px;
+@btn-padding-large-horizontal:   40px;
+@btn-padding-small-horizontal:   20px;
+
+@btn-sm-height:                  @component-height-small;
+@btn-default-height:             @component-height-base;
+@btn-lg-height:                  @component-height-large;
+
+// Forms
+// -------------------------
+@input-border-radius:           3px;
+@input-border:                  @grey9;
+@input-border-focus:            @blue2;
+
+@input-height-base:             @component-height-base;
+@input-height-large:            @component-height-large;
+@input-height-small:            @component-height-small;
+
+
+// Navbar
+// -------------------------
+
+// Basics of a navbar
+@navbar-height:                    50px;
+
+// Navbar brand label
+@navbar-default-brand-color:               @grey2;
+
+
+// Inverted navbar
+//
+// Reset inverted navbar basics
+@navbar-inverse-color:                      @gray-light;
+@navbar-inverse-bg:                         @grey2;
+@navbar-inverse-border:                     @grey2;
+
+// Inverted navbar links
+@navbar-inverse-link-color:                 @gray-light;
+@navbar-inverse-link-hover-color:           #fff;
+
+// Inverted navbar brand label
+@navbar-inverse-brand-color:                @gray-lighter;
+@navbar-inverse-brand-hover-color:          #fff;
+@navbar-inverse-brand-hover-bg:             transparent;
+
+// Logo
+// -------------------------
+
+@logo-size-xs: 16px;
+@logo-size-small: 32px;
+@logo-size-medium: 48px;
+@logo-size-large: 128px;
+@logo-size-xl: 256px;
+
+
+// Navs
+// -------------------------
+
+@nav-link-hover-bg:                         @grey10;
+// Tabs
+@nav-tabs-active-link-hover-bg:             @grey10;
+
+
+// Pagination
+// -------------------------
+
+@pagination-border:                    @grey9;
+
+@pagination-hover-bg:                  @gray-lighter;
+
+@pagination-active-bg:                 @brand-primary;
+@pagination-active-color:              #fff;
+
+@pagination-disabled-color:            @gray-light;
+
+
+// Jumbotron
+// -------------------------
+
+@jumbotron-padding:              40px;
+@jumbotron-color:                inherit;
+@jumbotron-heading-color:        @blue1;
+@jumbotron-font-size:            ceil(@font-size-base * 1.2);
+
+// Pager
+// -------------------------
+
+@pager-border-radius:                  0px;
+@pager-disabled-color:                 @gray-light;
+
+
+// Form states and alerts
+// -------------------------
+
+@state-success-text:             @green1;
+@state-success-bg:               @green5;
+@state-success-border:           @green2;
+
+@state-info-text:                @grey5;
+@state-info-bg:                  @grey10;
+@state-info-border:              @grey6;
+
+@state-warning-text:             @grey5;
+@state-warning-bg:               @yellow4;
+@state-warning-border:           @yellow1;
+
+@state-danger-text:              @red1;
+@state-danger-bg:                @red5;
+@state-danger-border:            @red3;
+
+
+// Modals
+// -------------------------
+
+@modal-title-tb-padding:         10px;
+@modal-title-lr-padding:         20px;
+
+// Alerts
+// -------------------------
+@alert-padding:               8px;
+@alert-link-font-weight:      normal;
+
+// Dropdowns
+// -------------------------
+
+@dropdown-link-color:            @grey5;
+@dropdown-link-hover-color:      @grey3;
+@dropdown-link-hover-bg:         @grey10;
+
+@dropdown-header-color:          @grey2;
+@dropdown-border:                4px solid @blue2;
+
+
+// List group
+// -------------------------
+@list-group-border:           @grey9;
+@list-group-hover-bg:         @grey10;
+@list-group-active-color:     @grey2;
+@list-group-active-bg:        @blue5;
+
+
+@list-group-link-color:          #555;
+@list-group-link-heading-color:  #333;
+
+// Thumbnails
+// -------------------------
+@thumbnail-margin:            10px;
+@thumbnail-padding:           0px;
+@thumbnail-bg:                @body-bg;
+@thumbnail-border:            @grey10;
+@thumbnail-border-radius:     @border-radius-base;
+
+@thumbnail-caption-color:     @text-color;
+@thumbnail-caption-padding:   20px;
+
+// Badges
+// -------------------------
+@badge-border-radius:         0px;
+@badge-bg:                    @grey7;
+@badge-font-weight:           normal;
+
+
+// Close
+// ------------------------
+@close-font-weight:           normal;
+
+// Sidebar
+// -------------------------
+@pt-sidebar-width:                     @navbar-height;
+@pt-sidebar-background-color:          @blue2;
+@pt-sidebar-color:                     @blue4;
+@pt-sidebar-active-color:              @white1;
+@pt-sidebar-active-background-color:   @blue1;
+@pt-sidebar-hover-background-color:    lighten(@pt-sidebar-background-color, 10%);

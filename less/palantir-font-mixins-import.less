@@ -1,0 +1,181 @@
+// ==============================================================
+// PALANTIR FONT MIXINS
+// Version: 1.0
+// Usage: @import "<path-to-file>/palantir-font-mixins-import.less";
+// ==============================================================
+
+// ==============================================================
+// Font Stack Definitions
+// ==============================================================
+
+.din-stack (@weight, @style:normal) {
+  font-family:"DinNextLT-@{weight}-@{style}", sans-serif;
+  font-weight: normal;
+  font-style:normal;
+  // font-family: %('DinNextLT-%s', @weight), sans-serif;
+}
+.blender-stack (@weight, @style:normal) {
+  font-family:"BlenderPro-@{weight}-@{style}", sans-serif;
+  font-weight: normal;
+  font-style:normal;
+  // font-family: %('BlenderPro-%s', @weight), sans-serif;
+}
+.source-code-stack (@weight, @style:normal) {
+  font-family: %('SourceCodePro-%s', @weight), sans-serif;
+  font-weight: normal;
+  font-style:normal;
+}
+
+
+// ==============================================================
+// Font Family, Weight and Style Mixins
+// ==============================================================
+
+// ==============================================================
+// General Mixins.
+// Usage:
+// .class-or-element{
+//  .din(black, italic);
+// }
+// OR
+// .class-or-element{
+//  .din(900, italic);
+// }
+// ==============================================================
+
+// DIN-NEXT-LT
+
+.din (ultralight, @style:normal) {
+  .din-stack(100, @style);
+}
+.din (100, @style:normal) {
+  .din-stack(100, @style);
+}
+.din (light, @style:normal) {
+  .din-stack(200, @style);
+}
+.din (200, @style:normal) {
+  .din-stack(200, @style);
+}
+.din (regular, @style:normal) {
+  .din-stack(400, @style);
+}
+.din (book, @style:normal) {
+  .din-stack(400, @style);
+}
+.din (400, @style:normal) {
+  .din-stack(400, @style);
+}
+.din (medium, @style:normal) {
+  .din-stack(600, @style);
+}
+.din (600, @style:normal) {
+  .din-stack(600, @style);
+}
+.din (bold, @style:normal) {
+  .din-stack(700, @style);
+}
+.din (700, @style:normal) {
+  .din-stack(700, @style);
+}
+.din (heavy, @style:normal) {
+  .din-stack(800, @style);
+}
+.din (800, @style:normal) {
+  .din-stack(800, @style);
+}
+.din (black, @style:normal) {
+  .din-stack(900, @style);
+}
+.din (900, @style:normal) {
+  .din-stack(900, @style);
+}
+
+// BLENDER-PRO
+
+.blender(...){
+  text-transform:uppercase;
+}
+.blender (thin, @style:normal) {
+  .blender-stack(200, @style);
+}
+.blender (200, @style:normal) {
+  .blender-stack(200, @style);
+}
+.blender (book, @style:normal) {
+  .blender-stack(400, @style);
+}
+.blender (regular, @style:normal) {
+  .blender-stack(400, @style);
+}
+.blender (400, @style:normal) {
+  .blender-stack(400, @style);
+}
+.blender (medium, @style:normal) {
+  .blender-stack(600, @style);
+}
+.blender (600, @style:normal) {
+  .blender-stack(600, @style);
+}
+.blender (bold, @style:normal) {
+  .blender-stack(700, @style);
+}
+.blender (700, @style:normal) {
+  .blender-stack(700, @style);
+}
+.blender (heavy, @style:normal) {
+  .blender-stack(800, normal);
+  // Heavy/800 weight has no italic style
+}
+.blender (800, @style:normal) {
+  .blender-stack(800, normal);
+  // Heavy/800 weight has no italic style
+}
+
+// SOURCE-CODE-PRO
+
+.source-code (extralight) {
+  .source-code-stack(100);
+}
+.source-code (100) {
+  .source-code-stack(100);
+}
+.source-code (light) {
+  .source-code-stack(200);
+}
+.source-code (200) {
+  .source-code-stack(200);
+}
+.source-code (regular) {
+  .source-code-stack(400);
+}
+.source-code (book) {
+  .source-code-stack(400);
+}
+.source-code (400) {
+  .source-code-stack(400);
+}
+.source-code (medium) {
+  .source-code-stack(500);
+}
+.source-code (500) {
+  .source-code-stack(500);
+}
+.source-code (semibold) {
+  .source-code-stack(600);
+}
+.source-code (600) {
+  .source-code-stack(600);
+}
+.source-code (bold) {
+  .source-code-stack(700);
+}
+.source-code (700) {
+  .source-code-stack(700);
+}
+.source-code (black) {
+  .source-code-stack(800);
+}
+.source-code (800) {
+  .source-code-stack(800);
+}

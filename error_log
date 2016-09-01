@@ -1,0 +1,267 @@
+[18-Sep-2014 20:13:08 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 130
+[18-Sep-2014 20:15:16 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 130
+[19-Sep-2014 02:47:24 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[19-Sep-2014 02:49:05 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[19-Sep-2014 05:35:49 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 130
+[19-Sep-2014 05:36:09 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 130
+[19-Sep-2014 05:36:12 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 130
+[19-Sep-2014 05:36:14 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 130
+[19-Sep-2014 05:36:16 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 130
+[20-Sep-2014 02:21:49 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 130
+[20-Sep-2014 05:04:32 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[20-Sep-2014 05:05:39 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 130
+[20-Sep-2014 05:05:42 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 130
+[20-Sep-2014 05:44:29 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[21-Sep-2014 23:40:32 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[22-Sep-2014 00:56:43 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 130
+[22-Sep-2014 06:08:20 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 130
+[22-Sep-2014 06:09:33 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 130
+[22-Sep-2014 12:38:54 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[22-Sep-2014 12:45:18 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 130
+[22-Sep-2014 15:55:44 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[22-Sep-2014 17:38:45 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 130
+[22-Sep-2014 17:39:27 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[22-Sep-2014 20:57:50 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[23-Sep-2014 04:19:06 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[23-Sep-2014 06:26:00 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 131
+[23-Sep-2014 06:31:52 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 131
+[23-Sep-2014 16:21:01 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 131
+[23-Sep-2014 16:58:32 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 131
+[23-Sep-2014 20:53:18 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 131
+[23-Sep-2014 21:07:39 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 131
+[23-Sep-2014 21:17:57 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 161
+[23-Sep-2014 21:34:16 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 161
+[23-Sep-2014 23:49:55 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[23-Sep-2014 23:51:17 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[24-Sep-2014 03:19:10 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[24-Sep-2014 03:21:32 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[24-Sep-2014 04:50:01 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[24-Sep-2014 04:54:17 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[24-Sep-2014 05:12:45 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[24-Sep-2014 05:34:12 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[24-Sep-2014 06:14:31 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[25-Sep-2014 00:20:52 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[25-Sep-2014 00:41:41 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[25-Sep-2014 00:42:59 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[25-Sep-2014 00:45:20 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[25-Sep-2014 00:47:03 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[25-Sep-2014 00:49:55 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[25-Sep-2014 00:49:59 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[25-Sep-2014 06:30:02 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[25-Sep-2014 15:29:39 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[25-Sep-2014 21:55:26 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[25-Sep-2014 21:55:57 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[26-Sep-2014 03:25:31 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[26-Sep-2014 03:25:40 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[26-Sep-2014 05:04:16 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[26-Sep-2014 19:20:20 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[26-Sep-2014 19:28:18 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[26-Sep-2014 19:28:51 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[26-Sep-2014 19:28:52 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[26-Sep-2014 19:41:48 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[26-Sep-2014 22:06:41 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[26-Sep-2014 22:10:25 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[27-Sep-2014 23:31:37 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[29-Sep-2014 01:17:27 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[29-Sep-2014 10:41:36 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[29-Sep-2014 10:42:08 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[30-Sep-2014 00:54:34 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[30-Sep-2014 19:31:56 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[30-Sep-2014 22:50:01 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[30-Sep-2014 22:50:01 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[30-Sep-2014 22:50:01 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 139
+[30-Sep-2014 22:50:01 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Oct-2014 19:28:04 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[01-Oct-2014 19:28:36 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[01-Oct-2014 19:28:37 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[01-Oct-2014 19:45:31 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Oct-2014 20:02:35 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Oct-2014 20:04:17 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Oct-2014 20:04:30 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Oct-2014 20:14:57 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Oct-2014 22:07:45 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 00:07:38 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[02-Oct-2014 05:38:00 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 05:43:12 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 05:43:20 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 05:45:45 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 19:31:43 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 19:55:24 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[02-Oct-2014 19:56:18 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[02-Oct-2014 19:56:18 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[02-Oct-2014 19:59:30 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 20:02:30 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 21:07:22 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 21:16:16 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 21:21:56 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 21:29:29 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 21:30:14 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 21:46:18 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 21:48:15 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 21:49:12 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 21:49:30 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 21:50:46 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Oct-2014 22:22:02 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[03-Oct-2014 09:55:31 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[03-Oct-2014 16:43:16 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[03-Oct-2014 19:45:11 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[03-Oct-2014 19:52:43 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[03-Oct-2014 20:03:20 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[03-Oct-2014 20:18:20 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[03-Oct-2014 21:13:01 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[03-Oct-2014 21:37:49 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[06-Oct-2014 02:48:16 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[07-Oct-2014 20:17:03 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[08-Oct-2014 20:43:10 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[08-Oct-2014 20:44:52 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[10-Oct-2014 05:40:39 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[14-Oct-2014 21:47:17 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[14-Oct-2014 21:47:35 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[16-Oct-2014 22:18:41 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[16-Oct-2014 22:34:38 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[17-Oct-2014 23:19:05 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[17-Oct-2014 23:19:27 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[19-Oct-2014 04:27:23 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[19-Oct-2014 04:31:53 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[19-Oct-2014 05:09:24 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[28-Oct-2014 16:40:45 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[29-Oct-2014 19:26:49 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[29-Oct-2014 22:49:49 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[31-Oct-2014 17:54:46 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[31-Oct-2014 17:55:28 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[31-Oct-2014 17:57:41 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[31-Oct-2014 17:57:41 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[31-Oct-2014 17:57:41 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 139
+[31-Oct-2014 17:57:41 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[31-Oct-2014 18:04:29 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[31-Oct-2014 18:04:29 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[31-Oct-2014 18:04:29 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 139
+[31-Oct-2014 18:04:29 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[03-Nov-2014 21:36:35 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[03-Nov-2014 21:36:35 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[03-Nov-2014 21:36:35 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 139
+[03-Nov-2014 21:36:35 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[04-Nov-2014 01:52:23 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[04-Nov-2014 01:52:23 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[04-Nov-2014 01:52:23 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 139
+[04-Nov-2014 01:52:23 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[04-Nov-2014 01:52:36 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[10-Nov-2014 23:10:24 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[10-Nov-2014 23:10:24 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[10-Nov-2014 23:10:24 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 139
+[10-Nov-2014 23:10:24 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[10-Nov-2014 23:11:25 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[10-Nov-2014 23:11:25 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[10-Nov-2014 23:11:25 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 139
+[10-Nov-2014 23:11:25 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[10-Nov-2014 23:15:58 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[10-Nov-2014 23:15:58 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[10-Nov-2014 23:15:58 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 139
+[10-Nov-2014 23:15:58 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[14-Nov-2014 18:06:23 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[14-Nov-2014 18:06:23 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[14-Nov-2014 18:06:23 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 139
+[14-Nov-2014 18:06:23 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Dec-2014 20:31:40 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[01-Dec-2014 20:31:40 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[01-Dec-2014 20:31:40 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Dec-2014 20:32:45 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[01-Dec-2014 20:32:45 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[01-Dec-2014 20:32:45 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Dec-2014 20:35:58 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[01-Dec-2014 20:35:58 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[01-Dec-2014 20:35:58 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Dec-2014 20:36:00 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[01-Dec-2014 20:36:00 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[01-Dec-2014 20:36:00 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Dec-2014 20:36:56 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[01-Dec-2014 20:36:56 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[01-Dec-2014 20:36:56 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Dec-2014 20:58:00 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[01-Dec-2014 20:58:00 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[01-Dec-2014 20:58:00 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Dec-2014 21:53:26 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Dec-2014 21:53:45 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Dec-2014 21:58:28 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[01-Dec-2014 22:41:30 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Dec-2014 01:39:20 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Dec-2014 19:29:06 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Dec-2014 20:25:02 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[02-Dec-2014 21:38:18 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[03-Dec-2014 22:29:21 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[05-Jan-2015 22:49:08 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[05-Jan-2015 22:49:08 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[05-Jan-2015 22:49:08 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[13-Jan-2015 23:34:46 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[13-Jan-2015 23:34:46 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[13-Jan-2015 23:34:46 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[13-Jan-2015 23:34:57 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[13-Jan-2015 23:34:57 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[13-Jan-2015 23:34:57 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[13-Jan-2015 23:35:25 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[13-Jan-2015 23:35:25 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[13-Jan-2015 23:35:25 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[06-Feb-2015 23:05:24 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[06-Feb-2015 23:05:24 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[06-Feb-2015 23:05:24 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[14-Apr-2015 00:34:35 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/index.php on line 25
+[14-Apr-2015 00:34:39 UTC] PHP Notice:  Undefined index: ap in /home/palantar/public_html/add_player.php on line 103
+[14-Apr-2015 00:34:39 UTC] PHP Notice:  Undefined index: ap in /home/palantar/public_html/add_player.php on line 106
+[14-Apr-2015 00:34:39 UTC] PHP Notice:  Undefined variable: RS_users in /home/palantar/public_html/add_player.php on line 153
+[14-Apr-2015 00:34:39 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[14-Apr-2015 00:34:48 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[14-Apr-2015 00:34:48 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[14-Apr-2015 00:34:48 UTC] PHP Notice:  Undefined variable: RS_users in /home/palantar/public_html/points.php on line 160
+[14-Apr-2015 00:34:48 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[14-Apr-2015 00:35:21 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[14-Apr-2015 00:35:21 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[14-Apr-2015 00:35:21 UTC] PHP Notice:  Undefined variable: RS_users in /home/palantar/public_html/points.php on line 160
+[14-Apr-2015 00:35:21 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[14-Apr-2015 00:36:03 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/index.php on line 25
+[14-Apr-2015 00:36:05 UTC] PHP Notice:  Undefined index: ap in /home/palantar/public_html/add_player.php on line 103
+[14-Apr-2015 00:36:05 UTC] PHP Notice:  Undefined index: ap in /home/palantar/public_html/add_player.php on line 106
+[14-Apr-2015 00:36:05 UTC] PHP Notice:  Undefined variable: RS_users in /home/palantar/public_html/add_player.php on line 153
+[14-Apr-2015 00:36:05 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[14-Apr-2015 00:36:11 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/index.php on line 25
+[14-Apr-2015 00:36:13 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/score.php on line 64
+[14-Apr-2015 00:38:06 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/index.php on line 25
+[20-May-2015 18:19:52 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/index.php on line 25
+[20-May-2015 18:20:36 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[20-May-2015 18:20:36 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[20-May-2015 18:20:36 UTC] PHP Notice:  Undefined variable: RS_users in /home/palantar/public_html/points.php on line 160
+[20-May-2015 18:20:36 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[21-May-2015 21:56:41 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/index.php on line 25
+[21-May-2015 21:56:51 UTC] PHP Notice:  Undefined index: ap in /home/palantar/public_html/add_player.php on line 103
+[21-May-2015 21:56:51 UTC] PHP Notice:  Undefined index: ap in /home/palantar/public_html/add_player.php on line 106
+[21-May-2015 21:56:51 UTC] PHP Notice:  Undefined variable: RS_users in /home/palantar/public_html/add_player.php on line 153
+[21-May-2015 21:56:51 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[21-May-2015 21:56:58 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/index.php on line 25
+[21-May-2015 21:57:01 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/score.php on line 64
+[03-Jun-2015 00:02:50 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/index.php on line 25
+[03-Jun-2015 00:02:55 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[03-Jun-2015 00:02:55 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[03-Jun-2015 00:02:55 UTC] PHP Notice:  Undefined variable: RS_users in /home/palantar/public_html/points.php on line 160
+[03-Jun-2015 00:02:55 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[03-Jun-2015 00:05:52 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/index.php on line 25
+[03-Jun-2015 00:05:56 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/score.php on line 64
+[10-Jun-2015 17:58:12 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/index.php on line 25
+[10-Jun-2015 17:59:52 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/index.php on line 25
+[10-Jun-2015 17:59:56 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[10-Jun-2015 17:59:56 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[10-Jun-2015 17:59:56 UTC] PHP Notice:  Undefined variable: RS_users in /home/palantar/public_html/points.php on line 160
+[10-Jun-2015 17:59:56 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[10-Jun-2015 18:06:07 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[10-Jun-2015 18:06:07 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[10-Jun-2015 18:06:07 UTC] PHP Notice:  Undefined variable: RS_users in /home/palantar/public_html/points.php on line 160
+[10-Jun-2015 18:06:07 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[10-Jun-2015 18:06:31 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 98
+[10-Jun-2015 18:06:31 UTC] PHP Warning:  Division by zero in /home/palantar/public_html/points.php on line 119
+[10-Jun-2015 18:06:31 UTC] PHP Notice:  Undefined variable: RS_users in /home/palantar/public_html/points.php on line 160
+[10-Jun-2015 18:06:31 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/points.php on line 160
+[13-Jul-2015 18:17:30 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/index.php on line 25
+[13-Jul-2015 18:17:35 UTC] PHP Notice:  Undefined index: ap in /home/palantar/public_html/add_player.php on line 103
+[13-Jul-2015 18:17:35 UTC] PHP Notice:  Undefined index: ap in /home/palantar/public_html/add_player.php on line 106
+[13-Jul-2015 18:17:35 UTC] PHP Notice:  Undefined variable: RS_users in /home/palantar/public_html/add_player.php on line 153
+[13-Jul-2015 18:17:35 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/palantar/public_html/add_player.php on line 153
+[13-Jul-2015 18:17:41 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/index.php on line 25
+[13-Jul-2015 18:17:42 UTC] PHP Notice:  Undefined index: rs in /home/palantar/public_html/score.php on line 64
